@@ -34,4 +34,4 @@ Bu katman aslında presentation katmanın bileşenlerindendir. Tüm Mimarinin ek
 * [EntityFramework InMemoryDatabase](https://learn.microsoft.com/en-us/ef/core/providers/in-memory/?tabs=dotnet-core-cli#supported-database-engines)
 ## Destek
 
-Eğer sorunuz yada hata durumları oluşursa  [Yeni İş Tanımlaması](https://github.com/jasontaylordev/CleanArchitecture/issues/new/choose) yapınız..
+Eğer sorunuz yada hata durumları oluşursa  [Yeni İş Tanımlaması](https://github.com/AhmetGuler1995/ReservationCase/issues/new) yapınız..
